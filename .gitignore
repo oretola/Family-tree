@@ -1,0 +1,6 @@
+node_modules/
+server/uploads/
+server/family.db
+*.db
+.DS_Store
+dist/
